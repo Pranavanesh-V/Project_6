@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project_6</string>
+    <string name="family_contacts">Family Contacts</string>
+    <string name="monitor">Monitor</string>
+    <string name="daily_task">Daily Task</string>
+    <string name="sos">SOS</string>
+    <string name="project_6">Project 6</string>
+    <string name="time_slot">Time Slot</string>
+    <string name="event">Event</string>
+    <string name="home">Home</string>
+    <string name="close">close</string>
+    <string name="submit">submit</string>
+    <string name="emergency_ph_no">Emergency Ph No</string>
+    <string name="name">Name</string>
+    <string name="emergency_phone_no">Emergency Phone No</string>
+    <string name="family_list">Family List</string>
+    <string name="phone_no">Phone No</string>
+    <string name="monitor_health_using_external_devices">Monitor Health using External Devices</string>
+    <string name="done">Done</string>
+    <string name="main_screen">Main Screen</string>
+</resources>
